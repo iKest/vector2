@@ -1,0 +1,229 @@
+{
+	"textures": [
+		{
+			"image": "electic_factory_1_low.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1024,
+				"h": 1024
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "electric_factory_1.plan_1-1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 200,
+						"h": 44
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 200,
+						"h": 44
+					},
+					"frame": {
+						"x": 258,
+                        "y": 979,
+                        "width": 200,
+                        "height": 44
+					}
+                },
+                {
+					"filename": "electric_factory_1.plan_2-1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 198,
+						"h": 84
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 198,
+						"h": 84
+					},
+					"frame": {
+						"x": 648,
+                        "y": 939,
+                        "width": 198,
+                        "height": 84
+					}
+                },
+                {
+					"filename": "electric_factory_1.plan_3-1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 72,
+						"h": 512
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 72,
+						"h": 512
+					},
+					"frame": {
+						"x": 766,
+                        "y": 308,
+                        "width": 72,
+                        "height": 512
+					}
+                },
+                {
+					"filename": "electric_factory_1.plan_3-2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 808,
+						"h": 188
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 808,
+						"h": 188
+					},
+					"frame": {
+						"x": 1,
+                        "y": 835,
+                        "width": 808,
+                        "height": 188
+					}
+                },
+                {
+					"filename": "electric_factory_1.plan_3-3",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 82,
+						"h": 229
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 82,
+						"h": 229
+					},
+					"frame": {
+						"x": 682,
+                        "y": 170,
+                        "width": 82,
+                        "height": 229
+					}
+                },
+                {
+					"filename": "electric_factory_1.plan_3-4",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 310,
+						"h": 283
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 310,
+						"h": 283
+					},
+					"frame": {
+						"x": 454,
+                        "y": 550,
+                        "width": 310,
+                        "height": 283
+					}
+                },
+                {
+					"filename": "electric_factory_1.plan_3-5",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 170,
+						"h": 159
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 170,
+						"h": 159
+					},
+					"frame": {
+						"x": 594,
+                        "y": 389,
+                        "width": 170,
+                        "height": 159
+					}
+                },
+                {
+					"filename": "electric_factory_1.plan_4-1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 451,
+						"h": 512
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 451,
+						"h": 512
+					},
+					"frame": {
+						"x": 1,
+                        "y": 321,
+                        "width": 451,
+                        "height": 512
+					}
+                },
+                {
+					"filename": "electric_factory_1.plan_4-2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 574,
+						"h": 232
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 574,
+						"h": 232
+					},
+					"frame": {
+						"x": 1,
+                        "y": 87,
+                        "width": 574,
+                        "height": 232
+					}
+                },
+                {
+					"filename": "electric_factory_1.plan_4-3",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 137,
+						"h": 280
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 137,
+						"h": 280
+					},
+					"frame": {
+						"x": 454,
+                        "y": 267,
+                        "width": 137,
+                        "height": 280
+					}
+                }
+            ]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0"
+	}
+}

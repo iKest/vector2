@@ -77,7 +77,7 @@
     <Sound Name="Scanner_Manipulator" File="quest_objects/scanner_manipulator.wav" Volume="1.0" />
     <Sound Name="Scanner_Beam" File="quest_objects/scanner_beam.wav" Volume="1.0" />
     <Sound Name="Scanner_Steps" File="quest_objects/scanner_steps.wav" Volume="1.0" />
-    <Sound Name="Swarm_Cutscene" File="quest_objects/swarm_cutscene.ogg" Volume="1.0" />
+    <Sound Name="Swarm_Cutscene" File="quest_objects/swarm_cutscene.wav" Volume="1.0" />
     <Sound Name="ambient_lab" File="ambient/lab.wav" />
     <Sound Name="blue_button" File="gui/blue_button.wav" Volume="0.8" />
     <Sound Name="select_button" File="gui/select_button.wav" Volume="0.8" />
